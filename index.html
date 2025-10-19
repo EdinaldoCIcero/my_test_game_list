@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Jogos Físicos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Banner -->
+  <header class="banner">
+    <img src="img/banner.png" alt="Banner da Loja">
+    <div class="banner-text">
+      <h1>Loja Átomo Games</h1>
+      <p>Os melhores jogos físicos para sua coleção!</p>
+    </div>
+  </header>
+
+  <!-- Galeria -->
+  <section class="galeria">
+    <h2>Catálogo de Produtos</h2>
+    <div class="cards-container" id="galeriaProdutos">
+      <!-- Os produtos serão carregados aqui via JS -->
+    </div>
+  </section>
+
+  <!-- Modal de produto -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span id="closeModal" class="close">&times;</span>
+      <div class="modal-body">
+        <div class="modal-left">
+          <img id="modalImg" src="" alt="Imagem do Produto">
+        </div>
+        <div class="modal-right">
+          <img class="modal-banner" src="img/banner.png" alt="Banner da Loja">
+          <h3 id="modalNome"></h3>
+          <p id="modalPreco"></p>
+          <p id="modalDescricao"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

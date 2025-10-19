@@ -1,0 +1,49 @@
+[
+  {
+    "nome": "Jogo de Tabuleiro - Cavaleiros do Reino",
+    "preco": "R$ 99,90",
+    "descricao": "Um jogo de estratégia medieval onde você comanda cavaleiros para conquistar o trono.",
+    "imagem": "img/jogo_1.png"
+  },
+  {
+    "nome": "Jogo de Cartas - Magos e Runas",
+    "preco": "R$ 59,90",
+    "descricao": "Combine runas mágicas e derrote seus adversários neste jogo rápido e divertido.",
+    "imagem": "img/jogo_2.png"
+  },
+
+   {
+    "nome": "Jogo de Cartas - Magos e Runas",
+    "preco": "R$ 59,90",
+    "descricao": "Combine runas mágicas e derrote seus adversários neste jogo rápido e divertido.",
+    "imagem": "img/jogo_2.png"
+  },
+
+  {
+    "nome": "Jogo de Cartas - Magos e Runas",
+    "preco": "R$ 59,90",
+    "descricao": "Combine runas mágicas e derrote seus adversários neste jogo rápido e divertido.",
+    "imagem": "img/jogo_2.png"
+  },
+
+  {
+    "nome": "Jogo de Cartas - Magos e Runas",
+    "preco": "R$ 59,90",
+    "descricao": "Combine runas mágicas e derrote seus adversários neste jogo rápido e divertido.",
+    "imagem": "img/jogo_2.png"
+  },
+
+  {
+    "nome": "Jogo de Cartas - Magos e Runas",
+    "preco": "R$ 59,90",
+    "descricao": "Combine runas mágicas e derrote seus adversários neste jogo rápido e divertido.",
+    "imagem": "img/jogo_2.png"
+  },
+
+  {
+    "nome": "Jogo de Cartas - Magos e Runas",
+    "preco": "R$ 59,90",
+    "descricao": "Combine runas mágicas e derrote seus adversários neste jogo rápido e divertido.",
+    "imagem": "img/jogo_2.png"
+  }
+]
